@@ -25,3 +25,6 @@ Official guidelines checked27October2026: https://developers.tiktok.com/docs/en/
 ## Status
 
 Local changes prepared. Pending deployed content checks, portal field reconciliation and actual resubmission. Do not label approved or under review until portal confirms it.
+
+## Deployment verified27October2026
+Commit9e2c2ca pushed (git push exit0,Everything up-to-date). Live website inspected in browser at https://ezerod77-arg.github.io/relatos-publisher/ and displays new brand,workflow and legal navigation. Local link/brand checks PASS forhome,privacy,terms. Portal opens login form in this browser; authenticated inspection and resubmission require user sign-in. No submission made yet.
