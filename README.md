@@ -1,8 +1,12 @@
-# Relatos Publisher public site
+# Relatos Publisher
 
-Public policy site for the Relatos Publisher TikTok integration.
+Official website for the Relatos Publisher desktop application.
 
-- Home: https://ezerod77-arg.github.io/relatos-publisher/
-- Terms: https://ezerod77-arg.github.io/relatos-publisher/terms.html
-- Privacy: https://ezerod77-arg.github.io/relatos-publisher/privacy.html
-- OAuth callback landing page: https://ezerod77-arg.github.io/relatos-publisher/callback.html
+- Website and Desktop URL: https://ezerod77-arg.github.io/relatos-publisher/
+- Privacy Policy: https://ezerod77-arg.github.io/relatos-publisher/privacy.html
+- Terms of Service: https://ezerod77-arg.github.io/relatos-publisher/terms.html
+- App name (exact): `Relatos Publisher`
+
+GitHub Pages static site. Preserve callback.html and the TikTok verification file. No secrets, account tokens or videos are served by this site. The website is documentation, not the desktop upload UI. Production approval remains pending. Identity consistency does not establish eligibility for production.
+
+See docs/TIKTOK_IDENTITY_REVIEW_20261027.md for the rejection, configuration mapping, validation and remaining steps.

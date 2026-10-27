@@ -11,3 +11,6 @@
 - Historia: [reconstrucción](docs/history/CHANGELOG_RECONSTRUCTION_20261027.md) y [commits](docs/history/COMMITS_20261027.md).
 - Política: [campos obligatorios](docs/CHANGELOG_POLICY.md).
 - Pendiente: conciliar vigencia de pendientes históricos y mantener entradas futuras por bloque de trabajo.
+
+## 2026-10-27T19:40:46.438564-03:00 — task137
+Identity correction for TikTok rejection: unified brand,title,canonical URLs and visible legal navigation; desktop workflow and approval status described accurately. Callback/verification preserved. Local implementation complete; deployment and portal resubmission pending. Evidence and exact field mapping:docs/TIKTOK_IDENTITY_REVIEW_20261027.md.
