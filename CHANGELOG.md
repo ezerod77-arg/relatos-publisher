@@ -24,3 +24,7 @@ Task137deployment verified:9e2c2ca pushed; live home page displays corrected ide
 - Status: implemented; source checks before commit, deployment verification pending.
 - Evidence: OAuth and upload code reviewed; tokens outside public source.
 - Limits: documentation does not change Google publishing status, renew tokens, or certify full backend retention compliance. Next: verify live pages and enter URLs in Google Cloud.
+
+### 2026-10-30T18:42:21-03:00 — tarea224 deployment verification
+- GitHub Pages build c7226f4 succeeded; both public URLs returned HTTP200 with updated YouTube content, without login.
+- Evidence: docs/deployment-224.json. No browser visual QA performed. Google Cloud changes and token renewal pending.

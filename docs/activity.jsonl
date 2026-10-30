@@ -1,1 +1,2 @@
 {"at": "2026-10-30T18:41:20-03:00", "task": 224, "action": "extend public YouTube OAuth documentation", "files": ["index.html", "privacy.html", "terms.html"], "status": "implemented"}
+{"task": 224, "checked_at": "2026-10-30T18:42:21-03:00", "status": "deployed_verified", "checks": [{"url": "https://ezerod77-arg.github.io/relatos-publisher/", "http": 200, "updated_content": true}, {"url": "https://ezerod77-arg.github.io/relatos-publisher/privacy.html", "http": 200, "updated_content": true}], "pending": "Google OAuth production setting and token reauthorization"}
