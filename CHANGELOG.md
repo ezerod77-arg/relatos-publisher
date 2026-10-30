@@ -16,3 +16,11 @@
 Identity correction for TikTok rejection: unified brand,title,canonical URLs and visible legal navigation; desktop workflow and approval status described accurately. Callback/verification preserved. Local implementation complete; deployment and portal resubmission pending. Evidence and exact field mapping:docs/TIKTOK_IDENTITY_REVIEW_20261027.md.
 
 Task137deployment verified:9e2c2ca pushed; live home page displays corrected identity. Three-page local brand/link checks PASS. Portal session requires authentication; submission pending.
+
+
+### 2026-10-30T18:41:20-03:00 — tarea224: Google OAuth public documentation
+- Objective: extend existing public Pages site for YouTube OAuth production configuration.
+- Changes: index.html, privacy.html, terms.html; preserved TikTok flow.
+- Status: implemented; source checks before commit, deployment verification pending.
+- Evidence: OAuth and upload code reviewed; tokens outside public source.
+- Limits: documentation does not change Google publishing status, renew tokens, or certify full backend retention compliance. Next: verify live pages and enter URLs in Google Cloud.
